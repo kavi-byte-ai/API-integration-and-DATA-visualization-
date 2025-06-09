@@ -21,3 +21,5 @@ Task 1: API Integration and Data Visualization One of the first tasks assigned t
 My internship experience at CODTECH IT Solutions was enriching and challenging. The API integration and data visualization task was an excellent introduction to the world of data science and software development.This experience has not only improved my technical skills but also taught me the importance of teamwork, communication, and problem-solving in a professional setting.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/cb9d5547-50da-441a-92fc-6ba9900cb83d)
